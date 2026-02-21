@@ -1,0 +1,45 @@
+{
+  "name": "Retire in Saint Lucia",
+  "short_name": "retire.stlucia",
+  "description": "The complete guide to retiring in Saint Lucia — cost of living, healthcare, residency, real estate, taxes, and lifestyle.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0D7377",
+  "background_color": "#FFFFFF",
+  "lang": "en",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Healthcare Guide",
+      "url": "/healthcare.html",
+      "description": "Healthcare options for retirees in Saint Lucia"
+    },
+    {
+      "name": "Cost of Living",
+      "url": "/cost-of-living.html",
+      "description": "Monthly budget guide for retiring in Saint Lucia"
+    },
+    {
+      "name": "Residency Guide",
+      "url": "/residency.html",
+      "description": "How to get residency or citizenship in Saint Lucia"
+    }
+  ],
+  "categories": ["lifestyle", "travel", "education"],
+  "prefer_related_applications": false
+}
